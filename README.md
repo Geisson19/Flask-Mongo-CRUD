@@ -1,4 +1,1 @@
-# Uniappto Web App
-
-* PMC 2021-2
-* Grupo 5
+# Simple user API implementation with mongodb
